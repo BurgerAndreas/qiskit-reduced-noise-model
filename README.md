@@ -5,7 +5,7 @@ Modeling future IBM's devices in Qiskit, with reduced noise-levels. Build the sa
 Python 3.10, Qiskit 0.37 (earlier versions probably also work)
 
 ### Quick-Start
-Execute try-me.py
+Execute try-me.py or try-me.ipynb
 
 ### More Info
 noise_models_in_qiskit.pdf
